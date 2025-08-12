@@ -1,3 +1,0 @@
-C3JL/S-]!iwfI/.kTLI7
-
-Note: If using the Postgres connection string, you will need to percent-encode the password
